@@ -1,6 +1,6 @@
 ---
 title: Journey to Blue Mountain & Leura
-author: Sharon Xiong
+author: Sharon Bear
 date: 2020-10-18
 hero: ./images/hero.jpg
 excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
@@ -8,6 +8,7 @@ excerpt: With the growing community interest in Gatsby, we hope to create more r
 
 ## Headers
 
-# Test Title
+# Test Title 
+## Test test
 
 Hello World!

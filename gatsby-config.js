@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `Bear & Lion`,
-    name: `Zoo`,
+    name: `Bear & Lion`,
     siteUrl: `https://touchfish.life`,
     description: `Bear & Lion's Blog`,
     hero: {
-      heading: `Welcome to Bear & Lion's blog!`,
+      heading: `Code. Food. Life.`,
       maxWidth: 652,
     },
     social: [

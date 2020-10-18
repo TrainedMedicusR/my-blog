@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://touchfish.life`,
     description: `Bear & Lion's Blog`,
     hero: {
-      heading: `Welcome to our blog.`,
+      heading: `Welcome to Bear & Lion's blog!`,
       maxWidth: 652,
     },
     social: [

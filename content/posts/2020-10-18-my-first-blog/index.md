@@ -1,5 +1,5 @@
 ---
-title: My first post using Novela by Narative
+title: Hello World!
 author: Michael Li
 date: 2020-10-18
 hero: ./images/hero.jpg
